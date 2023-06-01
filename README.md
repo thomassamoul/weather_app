@@ -32,7 +32,7 @@ flutter run
 
 ## Demo
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App_Demo](https://github.com/thomassamoul/weather_app/blob/master/demo.gif)
 
 
 
