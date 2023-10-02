@@ -11,7 +11,7 @@ Weather App app is open-source app for Android & ios. It is built with Dart on t
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/thomassamoul/weather_task.git
+https://github.com/thomassamoul/weather_app.git
 ```
 
 **Step 2:**
